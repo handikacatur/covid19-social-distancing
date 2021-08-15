@@ -5,3 +5,6 @@ The year 2020 is a terrible year. There has been a pandemic outbreak that force 
 
 ## The dataset
 We are using [Crowd Counting](https://www.kaggle.com/fmena14/crowd-counting) dataset from [Kaggle](https://www.kaggle.com/). It is a huge dataset taken frame to frame from a video recorded by a webcam in a mall. It contains more than 2000 images and each one is labeled by the number of people.
+
+Note:
+Might need some tuning to optimize learning process and prediction
